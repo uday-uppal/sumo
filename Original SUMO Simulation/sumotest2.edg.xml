@@ -1,0 +1,130 @@
+<edges>
+  <edge id="e1" from="1" to="2"  numLanes="2" speed="1.4"/>
+<edge id="e63" from="2" to="1"  numLanes="2" speed="1.4"/>
+  <edge id="e2" from="2" to="3" numLanes="2" speed="1.4"/>
+<edge id="e64" from="3" to="2" numLanes="2" speed="1.4"/>
+  <edge id="e59" from="3" to="4" numLanes="2" speed="1.4"/>
+<edge id="e65" from="4" to="3" numLanes="2" speed="1.4"/>
+  <edge id="e3" from="4" to="5" numLanes="2" speed="1.4"/>
+<edge id="e66" from="5" to="4" numLanes="2" speed="1.4"/>
+
+  <edge id="e4" from="5" to="6" numLanes="2" speed="1.4"/>
+<edge id="e67" from="6" to="5" numLanes="2" speed="1.4"/>
+  <edge id="e60" from="6" to="7" numLanes="2" speed="1.4"/>
+<edge id="e68" from="7" to="6" numLanes="2" speed="1.4"/>
+
+  <edge id="e5" from="7" to="8" numLanes="2" speed="1.4"/>
+<edge id="e69" from="8" to="7" numLanes="2" speed="1.4"/>
+  <edge id="e6" from="8" to="9" numLanes="2" speed="1.4"/>
+<edge id="e70" from="9" to="8" numLanes="2" speed="1.4"/>
+  <edge id="e61" from="9" to="10" numLanes="2" speed="1.4"/>
+<edge id="e71" from="10" to="9" numLanes="2" speed="1.4"/>
+  <edge id="e7" from="10" to="11" numLanes="2" speed="1.4"/>
+<edge id="e72" from="11" to="10" numLanes="2" speed="1.4"/>
+  <edge id="e8" from="11" to="12" numLanes="2" speed="1.4"/>
+<edge id="e73" from="12" to="11" numLanes="2" speed="1.4"/>
+  <edge id="e9" from="12" to="13" numLanes="2" speed="1.4"/>
+<edge id="e74" from="13" to="12" numLanes="2" speed="1.4"/>
+  <edge id="e10" from="14" to="15" numLanes="2" speed="1.4"/>
+<edge id="e75" from="15" to="14" numLanes="2" speed="1.4"/>
+  <edge id="e11" from="15" to="16" numLanes="2" speed="1.4"/>
+<edge id="e76" from="16" to="15" numLanes="2" speed="1.4"/>
+
+  <edge id="e12" from="16" to="17" numLanes="2" speed="1.4"/>	
+<edge id="e77" from="17" to="16" numLanes="2" speed="1.4"/>
+  <edge id="e13" from="17" to="18" numLanes="2" speed="1.4"/>
+<edge id="e78" from="18" to="17" numLanes="2" speed="1.4"/>
+  <edge id="e14" from="18" to="19" numLanes="2" speed="1.4"/>
+<edge id="e79" from="19" to="18" numLanes="2" speed="1.4"/>
+  <edge id="e15" from="19" to="20" numLanes="2" speed="1.4"/>
+<edge id="e80" from="20" to="19" numLanes="2" speed="1.4"/>
+  <edge id="e62" from="20" to="21" numLanes="2" speed="1.4"/>
+<edge id="e81" from="21" to="20" numLanes="2" speed="1.4"/>
+  <edge id="e16" from="21" to="22" numLanes="2" speed="1.4"/>
+<edge id="e82" from="22" to="21" numLanes="2" speed="1.4"/>
+  <edge id="e17" from="22" to="23" numLanes="2" speed="1.4"/>
+<edge id="e83" from="23" to="22" numLanes="2" speed="1.4"/>
+  <edge id="e18" from="23" to="24" numLanes="2" speed="1.4"/>
+<edge id="e84" from="24" to="23" numLanes="2" speed="1.4"/>
+  <edge id="e19" from="24" to="25" numLanes="2" speed="1.4"/>
+<edge id="e85" from="25" to="24" numLanes="2" speed="1.4"/>
+  <edge id="e20" from="25" to="26" numLanes="2" speed="1.4"/>
+<edge id="e86" from="26" to="25" numLanes="2" speed="1.4"/>
+
+  <edge id="e21" from="27" to="28" numLanes="2" speed="1.4"/>
+<edge id="e87" from="28" to="27" numLanes="2" speed="1.4"/>
+  <edge id="e22" from="28" to="29" numLanes="2" speed="1.4"/>
+<edge id="e88" from="29" to="28" numLanes="2" speed="1.4"/>
+  <edge id="e23" from="29" to="30" numLanes="2" speed="1.4"/>
+<edge id="e89" from="30" to="29" numLanes="2" speed="1.4"/>
+  <edge id="e24" from="30" to="31" numLanes="2" speed="1.4"/>
+<edge id="e90" from="31" to="30" numLanes="2" speed="1.4"/>
+  <edge id="e25" from="31" to="32" numLanes="2" speed="1.4"/>
+<edge id="e91" from="32" to="31" numLanes="2" speed="1.4"/>
+  <edge id="e26" from="32" to="33" numLanes="2" speed="1.4"/>
+<edge id="e92" from="33" to="32" numLanes="2" speed="1.4"/>
+  <edge id="e27" from="33" to="34" numLanes="2" speed="1.4"/>
+<edge id="e93" from="34" to="33" numLanes="2" speed="1.4"/>
+  <edge id="e28" from="34" to="35" numLanes="2" speed="1.4"/>
+<edge id="e94" from="35" to="34" numLanes="2" speed="1.4"/>
+  <edge id="e29" from="35" to="36" numLanes="2" speed="1.4"/>
+<edge id="e95" from="36" to="35" numLanes="2" speed="1.4"/>
+  <edge id="e30" from="36" to="37" numLanes="2" speed="1.4"/>
+<edge id="e96" from="37" to="36" numLanes="2" speed="1.4"/>
+  <edge id="e31" from="37" to="38" numLanes="2" speed="1.4"/>
+<edge id="e97" from="38" to="37" numLanes="2" speed="1.4"/>
+  <edge id="e32" from="38" to="39" numLanes="2" speed="1.4"/>
+<edge id="e98" from="39" to="38" numLanes="2" speed="1.4"/>
+  <edge id="e33" from="1" to="14" numLanes="2" speed="1.4"/>
+<edge id="e99" from="14" to="1" numLanes="2" speed="1.4"/>
+  <edge id="e34" from="14" to="27" numLanes="2" speed="1.4"/>
+<edge id="e100" from="27" to="14" numLanes="2" speed="1.4"/>
+  <edge id="e35" from="2" to="15" numLanes="2" speed="1.4"/>
+<edge id="e101" from="15" to="2" numLanes="2" speed="1.4"/>
+  <edge id="e36" from="15" to="28" numLanes="2" speed="1.4"/>
+<edge id="e102" from="28" to="15" numLanes="2" speed="1.4"/>
+  <edge id="e37" from="3" to="16" numLanes="2" speed="1.4"/>
+<edge id="e103" from="16" to="3" numLanes="2" speed="1.4"/>
+  <edge id="e38" from="16" to="29" numLanes="2" speed="1.4"/>
+<edge id="e104" from="29" to="16" numLanes="2" speed="1.4"/>
+  <edge id="e39" from="4" to="17" numLanes="2" speed="1.4"/>
+<edge id="e105" from="17" to="4" numLanes="2" speed="1.4"/>
+  <edge id="e40" from="17" to="30" numLanes="2" speed="1.4"/>
+<edge id="e106" from="30" to="17" numLanes="2" speed="1.4"/>
+  <edge id="e41" from="5" to="18" numLanes="2" speed="1.4"/>
+<edge id="e107" from="18" to="5" numLanes="2" speed="1.4"/>
+  <edge id="e42" from="18" to="31" numLanes="2" speed="1.4"/>
+<edge id="e108" from="31" to="18" numLanes="2" speed="1.4"/>
+  <edge id="e43" from="6" to="19"  numLanes="2" speed="1.4"/>
+<edge id="e109" from="19" to="6" numLanes="2" speed="1.4"/>
+  <edge id="e44" from="19" to="32" numLanes="2" speed="1.4"/>
+<edge id="e110" from="32" to="19" numLanes="2" speed="1.4"/>
+  <edge id="e45" from="7" to="20"  numLanes="2" speed="1.4"/>
+<edge id="e111" from="20" to="7" numLanes="2" speed="1.4"/>
+  <edge id="e46" from="20" to="33" numLanes="2" speed="1.4"/>
+<edge id="e112" from="33" to="20" numLanes="2" speed="1.4"/>
+  <edge id="e47" from="8" to="21" numLanes="2" speed="1.4"/>
+<edge id="e113" from="21" to="8" numLanes="2" speed="1.4"/>
+  <edge id="e48" from="21" to="34" numLanes="2" speed="1.4"/>
+<edge id="e114" from="34" to="21" numLanes="2" speed="1.4"/>
+  <edge id="e49" from="9" to="22" numLanes="2" speed="1.4"/>
+<edge id="e115" from="22" to="9" numLanes="2" speed="1.4"/>
+  <edge id="e50" from="22" to="35" numLanes="2" speed="1.4"/>
+<edge id="e116" from="35" to="22" numLanes="2" speed="1.4"/>
+  <edge id="e51" from="10" to="23" numLanes="2" speed="1.4"/>
+<edge id="e117" from="23" to="10" numLanes="2" speed="1.4"/>
+  <edge id="e52" from="23" to="36" numLanes="2" speed="1.4"/>
+<edge id="e118" from="36" to="23" numLanes="2" speed="1.4"/>
+  <edge id="e53" from="11" to="24" numLanes="2" speed="1.4"/>
+<edge id="e119" from="24" to="11" numLanes="2" speed="1.4"/>
+  <edge id="e54" from="24" to="37" numLanes="2" speed="1.4"/>
+<edge id="e120" from="37" to="24" numLanes="2" speed="1.4"/>
+  <edge id="e55" from="12" to="25" numLanes="2" speed="1.4"/>
+<edge id="e121" from="25" to="12" numLanes="2" speed="1.4"/>
+  <edge id="e56" from="25" to="38" numLanes="2" speed="1.4"/>
+<edge id="e122" from="38" to="25" numLanes="2" speed="1.4"/>
+  <edge id="e57" from="13" to="26" numLanes="2" speed="1.4"/>
+<edge id="e123" from="26" to="13" numLanes="2" speed="1.4"/>
+  <edge id="e58" from="26" to="39" numLanes="2" speed="1.4"/>
+ <edge id="e124" from="39" to="26" numLanes="2" speed="1.4"/>
+</edges>
